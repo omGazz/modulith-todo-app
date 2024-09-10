@@ -1,0 +1,15 @@
+{
+  "name": "modulith-todo-app",
+  "version": "1.0.0",
+  "description": "Demo APP of a modulith for an article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx ./src/frontend/index.ts"
+  },
+  "author": "Omggazz89",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^4.19.0"
+  }
+}
